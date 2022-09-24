@@ -1,0 +1,18 @@
+{
+	"shop_1":{
+		"rooms":[209],
+		"floor":1,
+		"name":"New Yorker",
+		"ids":["sh_x5F_118"],
+		"category":"Одежда",
+		"image":"img/shops/new_yoker.svg"
+	},
+	"shop_2":{
+		"rooms":[211],
+		"floor":1,
+		"name":"Снежная королева",
+		"ids":["sh_x5F_113"],
+		"category":"Одежда",
+		"image":"img/shops/s-q.svg"
+	}
+}
